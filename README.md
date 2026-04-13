@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Artur 👋
 
-<!--
-**ArturMaciel1995/ArturMaciel1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support Analyst transitioning into Data Engineering.
 
-Here are some ideas to get you started:
+I have hands-on experience with ERP systems, business process troubleshooting, transactional data analysis, and database validation in production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on building expertise in:
+
+* SQL
+* Python
+* ETL / ELT
+* Data Pipelines
+* Data Modeling
+
+## Current Focus
+
+Building practical projects to transition into a Data Engineering role.
+
+## Portfolio
+
+Check out my main portfolio repository:
+➡️ [data-portfolio](https://github.com/ArturMaciel1995/data-portfolio)

@@ -20,4 +20,4 @@ Building practical projects to transition into a Data Engineering role.
 
 👉 [Ecommerce Data Pipeline](https://github.com/ArturMaciel1995/data-portfolio/tree/main/projects/ecommerce-data-pipeline)
 
-End-to-end data pipeline with data transformation, dimensional modeling and PostgreSQL loading.
+End-to-end data pipeline built with Python (pandas), including data transformation, dimensional modeling, data quality validation, and loading into PostgreSQL.

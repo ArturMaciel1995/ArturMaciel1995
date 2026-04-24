@@ -16,7 +16,8 @@ Currently focused on building expertise in:
 
 Building practical projects to transition into a Data Engineering role.
 
-## Portfolio
+## 🚀 Featured Project
 
-Check out my main portfolio repository:
-➡️ [data-portfolio](https://github.com/ArturMaciel1995/data-portfolio)
+👉 [Ecommerce Data Pipeline](https://github.com/ArturMaciel1995/data-portfolio/tree/main/projects/ecommerce-data-pipeline)
+
+End-to-end data pipeline with data transformation, dimensional modeling and PostgreSQL loading.

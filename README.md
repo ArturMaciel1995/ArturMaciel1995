@@ -1,23 +1,33 @@
 # Hi, I'm Artur 👋
 
-Technical Support Analyst transitioning into Data Engineering.
+Data Analyst and aspiring Data Engineer focused on building scalable data solutions and analytics projects.
 
-I have hands-on experience with ERP systems, business process troubleshooting, transactional data analysis, and database validation in production environments.
-
-Currently focused on building expertise in:
+Currently working on practical end-to-end projects involving:
 
 * SQL
 * Python
-* ETL / ELT
-* Data Pipelines
+* ETL / ELT Pipelines
+* PostgreSQL
 * Data Modeling
+* Data Warehousing
+* Power BI
+* Data Analytics
 
 ## Current Focus
 
-Building practical projects to transition into a Data Engineering role.
+Designing and developing data pipelines, dimensional models, analytical datasets, and business intelligence solutions using modern data engineering and analytics practices.
 
 ## 🚀 Featured Project
 
 👉 [Ecommerce Data Pipeline](https://github.com/ArturMaciel1995/data-portfolio/tree/main/projects/ecommerce-data-pipeline)
 
-End-to-end data pipeline built with Python (pandas), including data transformation, dimensional modeling, data quality validation, and loading into PostgreSQL.
+End-to-end data pipeline built with Python and PostgreSQL, including:
+
+* Data extraction and transformation
+* Dimensional modeling (Star Schema)
+* Fact and dimension tables
+* Surrogate keys and relationships
+* Data quality validation
+* ETL pipelines
+* PostgreSQL data warehouse loading
+* Analytics-ready datasets for Power BI
